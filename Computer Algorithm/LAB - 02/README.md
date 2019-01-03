@@ -1,0 +1,1 @@
+# Problem: Write a program that writes some numbers randomly in a file and then prompts user for an item to search using linear search both in iterative & recursive way and calculate the running time.
