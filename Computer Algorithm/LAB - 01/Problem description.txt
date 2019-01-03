@@ -1,1 +1,0 @@
-Write a program that writes some number randomly in a file and then sorts these numbers using bubble sort, selection sort and insertion sort and compute the running time for each sorting procedure.
